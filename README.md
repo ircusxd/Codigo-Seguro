@@ -37,7 +37,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-Rocio Justo   [@rocijf28](https://github.com/rocijf28)
+Rocio Justo   [rocio.md](https://github.com/ircusxd/Codigo-Seguro/blob/feature/rocio/rocio.md)
 
 Hugo García   [hugo.md](https://github.com/ircusxd/Codigo-Seguro/blob/feature/hugo/hugo.md)
 
