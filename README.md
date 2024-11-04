@@ -39,7 +39,7 @@ Contributors names and contact info
 
 Rocio Justo   [@rocijf28](https://github.com/rocijf28)
 
-Hugo García   [@ircusxd](https://github.com/ircusxd)
+Hugo García   [hugo.md](https://github.com/ircusxd/Codigo-Seguro/blob/feature/hugo/hugo.md)
 
 Irene Cid   [@cidinene](https://github.com/cidinene)
 
