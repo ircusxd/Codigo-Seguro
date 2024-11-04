@@ -37,11 +37,11 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-Rocio Justo Fernandez  
-[@rocijf28](https://github.com/rocijf28)
+Rocio Justo   [@rocijf28](https://github.com/rocijf28)
 
-Hugo García Rubio
-[@ircusxd](https://github.com/ircusxd)
+Hugo García   [@ircusxd](https://github.com/ircusxd)
+
+Irene Cid   [@cidinene](https://github.com/cidinene)
 
 ## Version History
 
