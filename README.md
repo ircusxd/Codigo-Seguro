@@ -40,6 +40,9 @@ Contributors names and contact info
 Rocio Justo Fernandez  
 [@rocijf28](https://github.com/rocijf28)
 
+Hugo García Rubio
+[@ircusxd](https://github.com/ircusxd)
+
 ## Version History
 
 * 0.2
